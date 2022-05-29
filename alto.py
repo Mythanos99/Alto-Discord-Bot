@@ -80,4 +80,4 @@ async def play(ctx):
            
 
 
-client.run('ODU2NDg5OTIzNTA1NTUzNDU5.YNByZg.dLq1j_Hi-5w0bNQgujb2143YfM4')
+client.run('ODU2NDg5OTIzNTA1NTUzNDU5.YNByZg.dLq1j_Hi-5w0bNQgujb2143YfM4') # Add token here. The token used in the code is the outdated one.
